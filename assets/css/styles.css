@@ -150,7 +150,7 @@ main {
 .gallery-scroll {
   display: flex;
   gap: 1rem;
-  overflow-x: auto;
+  overflow-x: scroll;
   scroll-behavior: smooth;
   padding-bottom: 0.8rem;
   -webkit-overflow-scrolling: touch;
